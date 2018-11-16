@@ -1,0 +1,13 @@
+"signIn.title" = "Welcome to Git Octopus";
+"signIn.subtitle" = "An open source app to track\nGitHub project's issues.";
+"signIn.button.title" = "Sign in with GitHub";
+"repositories" = "Repositories";
+"search" = "Search";
+"search.repository" = "Search a repository";
+"watch" = "watch";
+"watched" = "watched";
+"unwatch" = "unwatch";
+"search.issue" = "Search an issue";
+"signout" = "Sign out";
+"cancel" = "Cancel";
+"last.update" = "Last update";

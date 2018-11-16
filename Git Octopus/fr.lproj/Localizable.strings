@@ -1,0 +1,13 @@
+"signIn.title" = "Bienvenue sur Git Octopus";
+"signIn.subtitle" = "Une application open source qui permet\nde suivre les issues de projets GitHub.";
+"signIn.button.title" = "Se connecter avec GitHub";
+"repositories" = "Repositories";
+"search" = "Rechercher";
+"search.repository" = "Chercher un repository";
+"watch" = "suivre";
+"watched" = "suivi";
+"unwatch" = "ne plus suivre";
+"search.issue" = "Chercher une issue";
+"signout" = "Se déconnecter";
+"cancel" = "Annuler";
+"last.update" = "Dernière mise à jour";
